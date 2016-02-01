@@ -12,4 +12,7 @@ function createBox(classname, parent) {
 	parent.appendChild(elem);
 }
 
+function Box(classname) {
+
+}
 
